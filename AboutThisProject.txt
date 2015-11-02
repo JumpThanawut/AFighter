@@ -1,0 +1,38 @@
+Project: A+Fighter
+Type: Mobile Application (Android)
+Event: HackingEDU Hackathon 2015 @ San Mateo
+Start Date: 23 OCT 2015
+Current Status: Prototype
+
+Team Member
+1. Thanawut Ananpiriyakul (Developer)
+2. Tony Trieu (Developer)
+3. Min Chen (Designer)
+
+Objective
+1. To create mobile application that merge education and game together
+2. To create personal career advising system
+3. To create attractive exam preparation application for students
+4. To support students' confidence in taking exam
+5. To encourage students to refine their problem solving skills by developing strategy to beat enemy
+6. To track students' learning progress and feed data to career advising system
+7. To help parents and educators understand students' ability and learning habit
+
+Overview of Application
+1. Support Android operating system.
+2. Real practice exams covering most of K-12 education
+3. RPG features
+	3.1 Avatar/Character
+	3.2 Class (Career)
+	3.3 Rank
+	3.4 Skill (Special ability)
+	3.5 Experience
+	3.6 Stats/Attribute
+	3.7 Item
+	3.8 Battle
+	3.9 Combo system
+4. Career advising system based on stats/attribute of avatar.
+5. Battle
+	5.1 Answer real practice exam to activate ability.
+	5.2 Skills and special abilities depend on class, rank, items and combo.
+	5.3 Enemy can be players or AIs which have various kind of special abilities.
